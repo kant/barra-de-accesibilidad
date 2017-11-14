@@ -43,7 +43,7 @@
                     <a href="http://www.cancilleria.gob.ar/" target="_blank">www.cancilleria.gob.ar</a><br/>
                     </p>
                 </div>
-                <div class="footer-right"><a href="http://www.cancilleria.gob.ar" target="_blank"><img alt="Ministerio de Relaciones Exteriores y Culto. República Argentina. Dirige al sitio web oficial. Abre en una nueva pestaña." src="/images/ministerio-relaciones-exteriores-y-culto-logo.png" width="275"></a></div>
+                <div class="footer-right"><a href="http://www.cancilleria.gob.ar" target="_blank"><img alt="Ministerio de Relaciones Exteriores y Culto. República Argentina. Lo guía al sitio web oficial. Abre en una nueva pestaña." src="/images/ministerio-relaciones-exteriores-y-culto-logo.png" width="275"></a></div>
             </div>
         </footer>
 
